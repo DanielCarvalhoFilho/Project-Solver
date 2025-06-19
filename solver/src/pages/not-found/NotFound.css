@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.notfound-container {
+  color: #333;
+  text-align: center;
+}
+
+.error-code {
+  font-size: 100px;
+  background: linear-gradient(30deg, #14a9ff, #e74c3c);
+  background-clip: text;
+  color: transparent;
+  margin-bottom: 20px;
+}
+
+.error-message {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.back {
+  font-size: 20px;
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  transition: transform 0.2s ease;
+}
+
+.back:hover {
+  cursor: pointer;
+  transform: translateY(-3px);
+}
+
+.back:active {
+  transform: translateY(-1px);
+}

@@ -1,0 +1,28 @@
+#formFile {
+  display: none;
+}
+
+.primary-color {
+  background-color: #00b3ff !important;
+  color: #fff !important;
+  text-align: center;
+}
+
+.secondary-color {
+  background-color: #747474 !important;
+  color: #fff !important;
+  text-align: center;
+}
+
+.result {
+    text-align: center;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+}
+
+label {
+  white-space: nowrap;
+}
+
+span {
+  color: #00b3ff !important;
+}

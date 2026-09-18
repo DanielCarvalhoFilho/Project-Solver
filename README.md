@@ -1,6 +1,6 @@
 # 📈 Projeto de Otimização de Lucro – Solver Alternativo
 
-Este é um projeto escolar desenvolvido com o objetivo de **maximizar o lucro com base em dados de uma planilha**, simulando o comportamento de ferramentas como o **Solver do Excel**, mas com uma implementação própria utilizando **Spring Boot (Java)** no backend e **React (JavaScript)** no frontend, usando o **Vite** para build e execução..
+Este é um projeto escolar desenvolvido com o objetivo de **maximizar o lucro com base em dados de uma planilha**, simulando o comportamento de ferramentas como o **Solver do Excel**, mas com uma implementação própria utilizando **Spring Boot** no backend e **React** no frontend, usando o **Vite** para build e execução.
 
 ## 🛠️ Tecnologias Utilizadas
 
